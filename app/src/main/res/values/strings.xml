@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APODProject</string>
+    <string name="apod_text">Each day a different image or photograph of our universe is featured, along with a brief explanation written by a professional astronomer.Through this app, You can get APOD of today as well as for any number of days since 1995.</string>
+    <string name="apod_sdatetext">01-01-2022</string>
+    <string name="apod_edatetext">01-01-2022</string>
+    <string name="submit">SUBMIT</string>
+    <string name="todo">TODO</string>
+</resources>
