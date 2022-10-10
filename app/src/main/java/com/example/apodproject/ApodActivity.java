@@ -11,6 +11,7 @@ public class ApodActivity extends AppCompatActivity {
      private RecyclerView apod_recyclerview;
      private String start_date = "";
      private String end_date = "";
+     private TextView textView4;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
